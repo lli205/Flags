@@ -14,6 +14,10 @@
 		B224B3012ACCC836003EBF3C /* FlagsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B224B3002ACCC836003EBF3C /* FlagsTests.swift */; };
 		B224B30B2ACCC836003EBF3C /* FlagsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B224B30A2ACCC836003EBF3C /* FlagsUITests.swift */; };
 		B224B30D2ACCC836003EBF3C /* FlagsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B224B30C2ACCC836003EBF3C /* FlagsUITestsLaunchTests.swift */; };
+		B224B31A2ACCC9BA003EBF3C /* Germany.swift in Sources */ = {isa = PBXBuildFile; fileRef = B224B3192ACCC9BA003EBF3C /* Germany.swift */; };
+		B224B31C2ACCCC45003EBF3C /* Mexico.swift in Sources */ = {isa = PBXBuildFile; fileRef = B224B31B2ACCCC45003EBF3C /* Mexico.swift */; };
+		B224B31E2ACCD321003EBF3C /* United Arab Emirates Flag.swift in Sources */ = {isa = PBXBuildFile; fileRef = B224B31D2ACCD321003EBF3C /* United Arab Emirates Flag.swift */; };
+		B224B3202ACCD575003EBF3C /* UAE2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B224B31F2ACCD575003EBF3C /* UAE2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +48,10 @@
 		B224B3062ACCC836003EBF3C /* FlagsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlagsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B224B30A2ACCC836003EBF3C /* FlagsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagsUITests.swift; sourceTree = "<group>"; };
 		B224B30C2ACCC836003EBF3C /* FlagsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B224B3192ACCC9BA003EBF3C /* Germany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Germany.swift; sourceTree = "<group>"; };
+		B224B31B2ACCCC45003EBF3C /* Mexico.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mexico.swift; sourceTree = "<group>"; };
+		B224B31D2ACCD321003EBF3C /* United Arab Emirates Flag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "United Arab Emirates Flag.swift"; sourceTree = "<group>"; };
+		B224B31F2ACCD575003EBF3C /* UAE2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UAE2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +103,10 @@
 			isa = PBXGroup;
 			children = (
 				B224B2EF2ACCC835003EBF3C /* FlagsApp.swift */,
+				B224B3192ACCC9BA003EBF3C /* Germany.swift */,
+				B224B31B2ACCCC45003EBF3C /* Mexico.swift */,
+				B224B31D2ACCD321003EBF3C /* United Arab Emirates Flag.swift */,
+				B224B31F2ACCD575003EBF3C /* UAE2.swift */,
 				B224B2F12ACCC835003EBF3C /* ContentView.swift */,
 				B224B2F32ACCC836003EBF3C /* Assets.xcassets */,
 				B224B2F52ACCC836003EBF3C /* Preview Content */,
@@ -257,8 +269,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B224B3202ACCD575003EBF3C /* UAE2.swift in Sources */,
+				B224B31C2ACCCC45003EBF3C /* Mexico.swift in Sources */,
+				B224B31A2ACCC9BA003EBF3C /* Germany.swift in Sources */,
 				B224B2F22ACCC835003EBF3C /* ContentView.swift in Sources */,
 				B224B2F02ACCC835003EBF3C /* FlagsApp.swift in Sources */,
+				B224B31E2ACCD321003EBF3C /* United Arab Emirates Flag.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
